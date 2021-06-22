@@ -18,3 +18,6 @@ Unless otherwise stated, this project is licensed under the zlib license. Please
 [website-link]: https://quaternionmark.github.io/homestuck_quirk/
 [ts]: https://www.typescriptlang.org
 [react]: https://reactjs.org/
+
+
+# THIS VERSION IS NOT THE OFFICIAL VERSION! THIS WAS MADE SO THAT I PERSONALLY HAVE AN EASIER TIME ACCESSING MY FANTROLL'S QUIRKS.
